@@ -10,7 +10,7 @@ public class somaControl {
 			// quando a variável chega a 0 retorna a função recursiva 
 			return 0;
 		}else{
-			// enquanto a variável não chega a 0 continua subtraindo da variável "n" e somando com a função recursiva
+			// enquanto a variável "n" não chega a 0, continua subtraindo da variável "n" na função recursiva e somando a variável
 			return n + soma(n - 1);
 		}
 	}	
