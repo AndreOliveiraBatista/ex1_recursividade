@@ -1,7 +1,8 @@
-package show;
+package show1;
 
 import javax.swing.JOptionPane;
-import control.somaControl;
+
+import control1.somaControl;
 
 	public class Principal {
 		public static void main(String[] args) {
